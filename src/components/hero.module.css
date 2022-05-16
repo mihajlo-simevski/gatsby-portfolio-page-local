@@ -1,0 +1,11 @@
+.heroContainer{
+    padding: 2rem;
+}
+.heroHeader{
+    font-size: 4rem !important;
+}
+.heroInput{
+   width: 100%;
+    text-align: center;
+    padding: 2rem 0;
+}

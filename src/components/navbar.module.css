@@ -1,0 +1,10 @@
+.navWrapper{
+  position: relative;;
+  width:max-content !important;
+  margin: 0 auto;
+}
+.navWrapper > div > a{
+  margin: 1rem !important;
+ font-size: 1.5rem;
+ text-transform: uppercase !important;
+}

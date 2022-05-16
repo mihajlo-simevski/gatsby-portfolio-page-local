@@ -1,0 +1,10 @@
+.heroCard{
+    width: 70% !important;
+    margin: 0 auto !important;
+}
+.cardBackground{
+    width: 100%;
+    padding: 20px;
+    background-color: whitesmoke;
+
+}
